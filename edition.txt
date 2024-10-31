@@ -2,6 +2,11 @@ first edition
 second edition
 third edition
 issue resolved
+<<<<<<< HEAD
 hotfix my solution
 111
 real one with knowledge
+
+hotfix
+
+
